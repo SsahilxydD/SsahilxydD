@@ -28,6 +28,8 @@ Seeking the mysteries of code with the keen intellect of Oreki Houtarou.👨🏻
   <img src="https://veriklick.com/wp-content/uploads/2021/12/Assembly.png" height="30" alt="Lua logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
 </div>
 
 ###
