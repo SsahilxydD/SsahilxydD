@@ -1,5 +1,5 @@
 <h2 align="left">
-Seeking the mysteries of code with the keen intellect of Oreki Houtarou.👨🏻‍💻
+
 </h2>
 
 ###
